@@ -1,0 +1,39 @@
+.head{
+    background-color: #040924;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.container img{
+    float: left;
+}
+
+.navigation-menu{
+    margin-left: auto;
+    width: 50%;
+    text-decoration: none;
+    margin: auto;
+    position: relative;
+}
+
+.navigation-menu ul{
+    color: aliceblue;
+    list-style:none;
+    font-size:20px;
+
+}
+.navigation-menu ul li{
+    display: inline-block;
+    margin-left: 10%;
+}
+.navigation-menu ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    transition: 0.2s;
+}
+
+.navigation-menu ul li a:hover{
+    color: #9910e3;
+}

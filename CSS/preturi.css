@@ -1,0 +1,20 @@
+
+.content{
+    padding-left: 15%;
+    padding-right:15%;
+}
+.wrap .text1{
+    font-size: 30px;
+    color: #9910e3;
+    margin-top: 2vh;
+    margin-bottom: 2v;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.wrap ul{
+    list-style: none;
+    font-size: 18px;
+    color: rgb(92, 92, 92);
+}
+.wrap p{
+    font-size: 18px;
+}

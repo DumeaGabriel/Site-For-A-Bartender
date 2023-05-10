@@ -1,0 +1,48 @@
+.bot{
+    background-color: #040924;
+    text-align: center;
+    margin-top: 4vh;
+    padding: 2vh;
+}
+
+.bot .titlu{
+    color: #9910e3;
+    font-size: 30px;
+    display: inline-block;
+    margin: 0 auto;
+
+}
+.bot-continut{
+    display: flex;
+    justify-content: center; align-items: center;
+}
+.logo{
+    margin-left: auto;
+    margin-right: auto;
+}
+.container img{
+    float: left;
+}
+
+.bot-text{
+    margin-right: auto;
+    color:aliceblue
+}
+.bot-text ul{
+    list-style: none;
+    font-size: 20px;
+}
+.bot-text ul li{
+    margin-bottom: 10px;
+}
+
+.bot-text ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    transition: 0.2s;
+
+}
+
+.bot-text ul li a:hover{
+color:#9910e3;
+}
